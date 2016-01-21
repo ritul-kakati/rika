@@ -1,0 +1,6 @@
+*.dat
+
+workspace/
+.tmp
+*.class
+bin/
